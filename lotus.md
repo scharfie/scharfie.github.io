@@ -1,7 +1,3 @@
----
-title: Lotus
----
-
 # Lotus quick reference/recipes
 
 #### HTML safe string
